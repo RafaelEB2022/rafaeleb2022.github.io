@@ -64,7 +64,8 @@
 
 /* header */
 .l-header {
-    background-image: url(https://i.ibb.co/BqF2RVc/background.png);
+    /* background-image: url(https://i.ibb.co/BqF2RVc/background.png); */
+    background-image: url(./src/assets/background.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
