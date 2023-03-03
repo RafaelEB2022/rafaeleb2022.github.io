@@ -243,10 +243,3 @@
 .card__buttons > .card__buttons--know-more {
     color: var(--white);
 }
-
-.sports,
-.casino,
-.tournaments,
-.other {
-    display: block;
-}
